@@ -129,11 +129,6 @@ Ensure you have the following installed:
 * 📦 Dockerize the app for easier deployment
 * 🌐 Add multi-language support (i18n)
 
----
-
-## 🧾 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -143,9 +138,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 * [Jinja2](https://jinja.palletsprojects.com/)
 * [Python Dotenv](https://pypi.org/project/python-dotenv/)
 
-```
 
----
 
 
 
