@@ -1,4 +1,3 @@
-Here's a well-structured `README.md` for your project based on the structure of your "Teacher\_Portal" directory. This includes installation instructions, project structure explanation, and suggestions for further improvements.
 
 ---
 
