@@ -91,14 +91,14 @@ document.addEventListener('DOMContentLoaded', () => {
         demoInfo.className = 'demo-info';
         demoInfo.innerHTML = `
             <p><small><strong>Demo Credentials:</strong></small></p>
-            <p><small>Username: teacher1 | Password: password123</small></p>
+            <p><small>Username: teacher1 | Password: teacher123</small></p>
         `;
         demoInfo.style.cssText = `
             position: absolute;
             bottom: 20px;
             left: 50%;
             transform: translateX(-50%);
-            background: rgba(0,0,0,0.1);
+            background: rgb(250, 248, 248);
             padding: 10px;
             border-radius: 4px;
             text-align: center;
